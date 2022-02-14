@@ -1,1 +1,1 @@
-https://kyanoboi.github.io/Pong/Pong/Pong.html 
+https://kyanoboi.github.io/Pong/Pong/Home.html
