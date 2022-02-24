@@ -1,1 +1,1 @@
-https://kyanoboi.github.io/Pong/Pong/Home.html
+https://kyanoboi.github.io/Pong/Kyano_De_Maertelaere_Pong_Project/Home.html
